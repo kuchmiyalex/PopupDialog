@@ -41,6 +41,6 @@ let package = Package(
 			dependencies:[
 				.product(name: "DynamicBlurView", package: "DynamicBlurView")
 			],
-			path: "PopupDialog/Classes")
+			path: "Sources/Classes")
 	]
 )
